@@ -23,6 +23,7 @@
 
 ## 📥 Self Hosting Instruction
 - Download Node.JS LTS version from [here](https://nodejs.org)
+- For Replit more it need Node 16+ Version
 - Install typescript and ts-node globaly by doing this commands
 ```
 npm i -g typescript ts-node
