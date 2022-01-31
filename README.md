@@ -54,6 +54,8 @@ PREFIX=
 # Get it from (https://sentry.io)
 DSN=
 
+DEVELOPERS= []
+
 # Lavalink Server
 HOST=
 PASSWORD=
