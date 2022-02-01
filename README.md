@@ -15,7 +15,7 @@
 - Yumiko Bot still in development mode and will have a loot of features
 
  ## 🎶 Music Features
- Nao has a Music Features that can play music from SoundCloud, Spotify, YouTube, Radio Link
+ Yumiko has a Music Features that can play music from SoundCloud, Spotify, YouTube, Radio Link
 - The music feature can play music directly from spotify.
 - Music feature that uses buttons for easy control and does not have to type commands to change songs, stop songs, or view song lists 
 - Support 24 hours without leaving the voice channel and this is set by default.
